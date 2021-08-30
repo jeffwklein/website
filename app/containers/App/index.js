@@ -51,7 +51,7 @@ export default function App() {
               </a>
               <a
                 className="sideLink"
-                href="http://www.linkedin.com/pub/jeffrey-klein/69/190/35a"
+                href="https://www.linkedin.com/in/jeffwklein/"
                 target="_blank"
               >
                 LinkedIn
